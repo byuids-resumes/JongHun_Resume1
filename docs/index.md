@@ -3,11 +3,9 @@ layout: cv
 title: JongHun's Resume
 ---
 # JongHun Lee
-Major - Business management 
-Minor - Data Science 
+Major - Business management & Minor - Data Science 
 
 <div id="webaddress">
-| <a href="white.winterfilm@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/jonghunlee">LinkedIn</a>
 | <a href="https://siwol-archive.github.io/">GitHub</a>
 </div>
@@ -23,6 +21,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 ## Related Experience
+DS250 - Data Science Programming 
 
 ### Internships
 
