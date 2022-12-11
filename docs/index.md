@@ -7,7 +7,7 @@ Major - Business management
 Minor - Data Science 
 
 <div id="webaddress">
-<a href="white.winterfilm@gmail.com">datascience@byui.edu</a>
+<a href="white.winterfilm@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/jonghunlee">LinkedIn</a>
 | <a href="https://siwol-archive.github.io/">GitHub</a>
 </div>
