@@ -30,24 +30,24 @@ DS250 - Data Science Programming
 Student Consultant, Small Business Management	
 Research and Business Development Center 
 
-__Researched and Analyzed data to expend business in the US__
-__Provided business listings in recommended states for marketing and making connections__
+- Researched and Analyzed data to expend business in the US
+- Provided business listings in recommended states for marketing and making connections
 
 `September 2022–December 2022`
 Project Intern	
 Research and Business Development Center  
 
-__Analyzed previous data and plan future project plans__
-__Survey and collect data on hospitals in the surrounding area__
-__Research and make a plan of outreach strategies__ 
+- Analyzed previous data and plan future project plans
+- Survey and collect data on hospitals in the surrounding area
+- Research and make a plan of outreach strategies
 
 ## Skills 
 
-• SQL
-• R
-• Python
-• Power Bi, Tableau
-• Data Analysis
+- SQL
+- R
+- Python
+- Power Bi, Tableau
+- Data Analysis
 
 
 
