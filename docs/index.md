@@ -6,6 +6,7 @@ title: JongHun's Resume
 Major - Business management & Minor - Data Science 
 
 <div id="webaddress">
+| <a href="jonghun.lee2023@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/jonghunlee">LinkedIn</a>
 | <a href="https://siwol-archive.github.io/">GitHub</a>
 </div>
@@ -42,10 +43,12 @@ Research and Business Development Center
 
 ## Skills 
 
-• SQL, Tableau
+• SQL
 • R
 • Python
-• Git / GitHub
+• Power Bi, Tableau
+• Data Analysis
+
 
 
 <!-- ### Footer
