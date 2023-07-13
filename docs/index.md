@@ -3,8 +3,7 @@ layout: cv
 title: JongHun's Resume
 ---
 # JongHun Lee
- - Major - Business management 
- - Minor - Data Science 
+
 
 <div id="webaddress">
 | <a href="jonghun.lee2023@gmail.com">Email</a>
@@ -19,13 +18,16 @@ title: JongHun's Resume
 `2021-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+ Business Management Major 
+ Data Science Minor
+  
 - GPA 3.44
+- Data Science Society , Women in Business Society
 
+Related Experience & Courses
 
-## Related Experience
-
-### Class and Courses
-- DS250  Data Science Programming 
+- Introduction to SQL Databases
+- DS250  Data Science Programming
 - DS350  Data Wrang and Visualization
 - DS450 Machine Learning
 
@@ -54,10 +56,13 @@ Research and Business Development Center
 - Power Bi, Tableau
 - Data Analysis
 
+## Service and Work History
+`Auguest 2015-March 2016` 
+Missionary, New Jersey, USA
 
 
 <!-- ### Footer
 
-Last updated: December 2022 -->
+Last updated: July 13 -->
 
 
